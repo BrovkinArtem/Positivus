@@ -1,6 +1,8 @@
 # Positivus
 <img src="https://skillicons.dev/icons?i=html,scss,figma" />
 
+<img src="https://github.com/BrovkinArtem/Positivus/blob/main/screenshots/Positivus1.png" />
+
 ## О проекте
 **Positivus** — учебный проект, представляющий собой адаптивную верстку сайта по макету из Figma. Это второй проект в серии, где используются SCSS, методология БЭМ и современные подходы к организации кода.
 
